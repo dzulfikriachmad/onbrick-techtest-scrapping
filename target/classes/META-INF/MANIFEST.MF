@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: 3DG4QT2-ADWPC
+Build-Jdk: 15.0.2
+Created-By: Maven Integration for Eclipse
+
